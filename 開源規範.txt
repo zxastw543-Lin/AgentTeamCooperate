@@ -1,0 +1,124 @@
+📘 GOVERNANCE.md
+Open Source Governance & Acceptable Use Policy
+
+（嚴格版｜適用 AI / Agent / Automation 專案）
+
+1. 專案性質聲明
+1. Project Nature
+
+繁體中文：
+本專案為開源軟體專案，僅提供原始碼與技術示範用途。
+專案創建者與維護者 不對使用者的實際部署、修改方式、用途或衍生行為進行任何形式的審核、監管或背書。
+
+English:
+This project is an open-source software project provided for source code access and technical demonstration purposes only.
+The project creator and maintainers do not review, monitor, endorse, or control how the software is deployed, modified, or used.
+
+2. 惡意行為與權限終止
+2. Malicious Use & Termination of Access
+
+繁體中文：
+若任何人於本專案相關空間（包含但不限於 repository、issue、PR、release、mirror）中：
+
+加入、散布或連結惡意程式碼、外掛、模組或執行檔
+
+實作可危害設備、系統、網路或資料安全之功能
+
+涉及未經授權的資料蒐集、監控、API 濫用或隱私洩漏
+
+專案維護者有權 立即終止其存取、貢獻、互動或任何相關權限，不需事前通知，亦不承擔任何義務。
+
+English:
+If any individual, within project-related spaces (including but not limited to repositories, issues, pull requests, releases, or mirrors):
+
+Introduces or distributes malicious code, plugins, modules, or executables
+
+Implements functionality that compromises system, network, or data security
+
+Engages in unauthorized data collection, surveillance, API abuse, or privacy violations
+
+The maintainers reserve the right to immediately revoke access, contribution rights, and participation, without prior notice or obligation.
+
+3. 非自用、商業與組織使用
+3. Non-Personal, Commercial, or Organizational Use
+
+繁體中文：
+若將本專案（包含修改、衍生或整合版本）用於非個人自用目的，包含但不限於：
+
+商業行為或營利活動
+
+公司、企業、政府、學校、研究機構或團體使用
+
+對外服務、產品、平台或 AI 系統的一部分
+
+使用者 必須自行確保已符合並取得所有適用法律、法規、組織、產業或國家之合法授權與合規要求。
+
+English:
+If this project (including modified, derived, or integrated versions) is used for non-personal purposes, including but not limited to:
+
+Commercial or revenue-generating activities
+
+Use by companies, enterprises, governments, academic institutions, or organizations
+
+Deployment as part of a service, product, platform, or AI system
+
+The user must independently ensure compliance with all applicable laws, regulations, organizational rules, and jurisdictional requirements.
+
+4. 禁止用途
+4. Prohibited Use
+
+繁體中文：
+本專案不得被用於以下用途：
+
+違反任何適用之國家或國際法律
+
+詐欺、造假、誤導、操縱或不實行為
+
+對個人、企業、國家、公共基礎設施或 AI 系統造成損害
+
+攻擊性、監控性、破壞性或未授權研究
+
+English:
+This project must not be used for:
+
+Violations of any applicable national or international laws
+
+Fraud, falsification, manipulation, or deceptive practices
+
+Harm to individuals, organizations, nations, critical infrastructure, or AI systems
+
+Offensive, surveillance-based, destructive, or unauthorized research activities
+
+5. AI / Agent / Automation 使用限制（重點）
+5. AI / Agent / Automation Usage Restrictions
+
+繁體中文：
+若本專案被用於 AI、Agent、自動化或自主決策系統，使用者須理解並同意：
+
+專案 不具備自主判斷道德、法律或社會後果的能力
+
+不得賦予 AI 系統超出法律、組織或人類監督範圍的權限
+
+因 AI 決策、自動執行或連鎖行為造成的所有影響與後果，均由使用者全權負責
+
+English:
+When used in AI, agent-based, automation, or autonomous decision-making systems, users acknowledge that:
+
+The project does not possess moral, legal, or social judgment capabilities
+
+AI systems must not be granted authority beyond legal, organizational, or human oversight
+
+All consequences arising from AI decisions, automation, or chained actions are the sole responsibility of the user
+
+⚠️ DISCLAIMER.md
+Legal Disclaimer & Limitation of Liability
+
+繁體中文：
+本專案以「現狀（AS IS）」提供，不附帶任何形式之明示或默示保證，包括但不限於適售性、特定用途適用性或不侵權之保證。
+
+在任何情況下，專案創建者、維護者或貢獻者，均不對因使用、修改、再散布或部署本專案所造成的任何直接、間接、附帶、特殊、懲罰性或衍生性損害負責。
+
+English:
+This project is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement.
+
+Under no circumstances shall the project creator, maintainers, or contributors be liable for any direct, indirect, incidental, special, punitive, or consequential damages arising from the use, modification, redistribution, or deployment of this project.
