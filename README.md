@@ -48,6 +48,10 @@ English:
 - For non-personal use, obtain authorization from relevant countries/companies/communities/groups/individuals; unlicensed use is prohibited.
 - Any societal or cross-border legal impacts from granting excessive power to AI are the user’s responsibility.
 
+## 政策文件 (Policy Docs)
+- `GOVERNANCE.md`：開源治理與可接受使用政策（中英雙語）。
+- `DISCLAIMER.md`：法律免責聲明與責任限制（中英雙語）。
+
 ## 結構 (Structure)
 ```
 AgentTeamCooperate/
