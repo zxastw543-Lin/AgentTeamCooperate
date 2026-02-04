@@ -22,6 +22,18 @@ English:
 - Maintainers may block/rollback any unsafe contribution.
 - Default LAN-only; any WAN exposure must be explicitly allowlisted and authenticated.
 
+## 責任聲明 (Disclaimer)
+- 若將此專案開源程式碼或修改後用於非自用場景，必須遵守相關法律規範，不得用於非法／商業詐欺／造假／危害研究／侵害他人、企業、國家或他人 AI、造成損失等行為，相關責任由使用者自負。
+- 如原始碼被修改成有洩漏私有資訊等功能，因創建者無法逐一篩選或負責，所有後果由使用者自負。
+- 若用於非自用，必須取得相關國家／公司企業／社群／團體／人士的合法授權；未經授權不得使用。
+- 使用者賦予 AI 過大權力而造成的社會影響、跨國法律責任等，創建者概不負責，使用者需依所在地及受影響國家法規自負責任。
+
+English:
+- If you use this project (original or modified) beyond personal use, you must comply with applicable laws and may not use it for illegal/fraudulent/harmful purposes; all liabilities rest with the user.
+- If the code is modified to leak private data, the creators cannot vet every change; users bear all consequences.
+- For non-personal use, obtain proper authorization from relevant countries/companies/organizations/individuals; unlicensed use is prohibited.
+- Any societal impact or cross-border legal responsibility from granting excessive power to AI is solely the user’s responsibility; creators are not liable.
+
 ## 結構 (Structure)
 ```
 AgentTeamCooperate/
