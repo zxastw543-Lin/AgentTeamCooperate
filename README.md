@@ -34,6 +34,20 @@ English:
 - For non-personal use, obtain proper authorization from relevant countries/companies/organizations/individuals; unlicensed use is prohibited.
 - Any societal impact or cross-border legal responsibility from granting excessive power to AI is solely the user’s responsibility; creators are not liable.
 
+## 開源使用規範 (Open Source Usage Policy)
+- 本專案開源程式碼僅供合規、自用或取得合法授權後使用。
+- 不得用於違法、詐欺、造假、危害研究、侵犯他人／企業／國家權益或造成損失的用途。
+- 若外掛或修改版本涉及洩漏私有資料、API、金鑰或對他人造成危害，使用者須自行承擔全部責任，創建者不負責。
+- 若用於非自用，須取得相關國家、公司、社群、團體或個人的合法授權；未經授權不得使用。
+- 任何因賦予 AI 過大權力造成的社會或跨國法律影響，均由使用者依各地法規自負責任。
+
+English:
+- This open-source code is for lawful personal use or use with proper authorization only.
+- Do not use it for illegal, fraudulent, harmful, or rights-infringing purposes.
+- If plugins or modifications leak private data/API keys or cause harm, users bear full responsibility; creators are not liable.
+- For non-personal use, obtain authorization from relevant countries/companies/communities/groups/individuals; unlicensed use is prohibited.
+- Any societal or cross-border legal impacts from granting excessive power to AI are the user’s responsibility.
+
 ## 結構 (Structure)
 ```
 AgentTeamCooperate/
